@@ -38,5 +38,5 @@
           "type": "Categorical",
           "values": ["in_work", "verified", "on_check", "in_work", "verified", "in_work", "verified", "in_work"],
         };
-    ];
+    ]
 }

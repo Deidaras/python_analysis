@@ -79,6 +79,6 @@
           "is_target": true,
           "is_excluded": false
         }
-      },
+      }
     ]
 }

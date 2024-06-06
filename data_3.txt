@@ -61,7 +61,7 @@
       { 
         "name": "column_boolean",
         "type": "Boolean",
-        "values": [true, NULL, true, true, false, NULL, true, false],
+        "values": [true, {}, true, true, false, {}, true, false],
         "properties": {
           "is_hidden": false,
           "is_index": false,
